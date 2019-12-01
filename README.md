@@ -6,6 +6,9 @@ No of submissions left -- 15
 # Things working on
 1) divamgupta github repo -> Tomorrow 1st submission
 2) qubvel segmentation models
+3) Pixel Intensity problem --> Serious
+
+1) UNet
 
 # Concepts to look upon
 1) FCN-8, 16, 32 difference
@@ -13,7 +16,7 @@ No of submissions left -- 15
 
 # Paper to look upon
 1) Dealing with 
-2) ENet
+2) Efficient Net
 3) PSP Net
 4) 
 
