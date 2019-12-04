@@ -7,6 +7,12 @@ No of submissions left -- 15
 Look for repo containing cityscapes dataset and run the codes anyhow 
 Cityscapes have void classes look for it
 
+Change the intensity of particular values
+Change the name to label.png
+Directories make
+Test folder some images are not present -> 5 images ID find out
+
+
 1) divamgupta github repo -> Tomorrow 1st submission
 2) qubvel segmentation models
 3) Pixel Intensity problem --> Serious
