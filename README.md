@@ -1,7 +1,11 @@
-# idd_driving_segmentation
-Indian Driving Dataset Segmentation Challenge NCVPRIPG'19
+# idd_driving_detection
+Indian Driving Dataset Road Objects Detection
 
-No of submissions left -- 14
+# workflow
+
+1) Convert the images and annotations names to '0.xml/0.jpg', '1.xml/1.jpg' and so on.
+2) Use xml_csv.py file to convert the xml format to csv/txt format.
+
 
 # Codes to work upon 
 Look for repo containing cityscapes dataset and run the codes anyhow 
